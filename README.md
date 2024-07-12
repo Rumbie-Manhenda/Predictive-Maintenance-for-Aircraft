@@ -1,3 +1,3 @@
-#PREDICTIVE MANATINENACE WITH MANCHINE LEARNING
+# PREDICTIVE MANATINENACE WITH MANCHINE LEARNING
 
 In aviation, predicting the remaining useful life (RUL) of critical aircraft components is essential for reliability and safety. By using historical maintenance data, flight conditions, and sensor readings, a robust regression model aids proactive maintenance planning, reducing unscheduled downtime and optimizing efficiency. Unplanned maintenance can lead to significant financial burdens and operational disruptions. To address this, I developed a comprehensive RUL prediction framework using Linear Regression and Random Forest models, evaluating them with NASA's C-MAPSS dataset to enhance maintenance decision-making and improve overall operational performance.
